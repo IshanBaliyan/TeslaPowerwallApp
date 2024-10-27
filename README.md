@@ -1,13 +1,3 @@
-# Expo Router Example
+Tesla Powerwall App
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
-
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+![Screenshot 2024-10-27 at 5 45 22 PM](https://github.com/user-attachments/assets/7143f159-4d0e-4e7b-b002-65faefc42357)
